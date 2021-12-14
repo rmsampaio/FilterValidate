@@ -1,0 +1,11 @@
+C:\ProjetosFinantec\Github\FilterValidate\FilterValidate\bin\Debug\netcoreapp3.1\FilterValidate.deps.json
+C:\ProjetosFinantec\Github\FilterValidate\FilterValidate\bin\Debug\netcoreapp3.1\FilterValidate.dll
+C:\ProjetosFinantec\Github\FilterValidate\FilterValidate\bin\Debug\netcoreapp3.1\FilterValidate.pdb
+C:\ProjetosFinantec\Github\FilterValidate\FilterValidate\obj\Debug\netcoreapp3.1\FilterValidate.Resources.MensagensPadrao.resources
+C:\ProjetosFinantec\Github\FilterValidate\FilterValidate\obj\Debug\netcoreapp3.1\FilterValidate.csproj.GenerateResource.cache
+C:\ProjetosFinantec\Github\FilterValidate\FilterValidate\obj\Debug\netcoreapp3.1\FilterValidate.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosFinantec\Github\FilterValidate\FilterValidate\obj\Debug\netcoreapp3.1\FilterValidate.AssemblyInfoInputs.cache
+C:\ProjetosFinantec\Github\FilterValidate\FilterValidate\obj\Debug\netcoreapp3.1\FilterValidate.AssemblyInfo.cs
+C:\ProjetosFinantec\Github\FilterValidate\FilterValidate\obj\Debug\netcoreapp3.1\FilterValidate.csproj.CoreCompileInputs.cache
+C:\ProjetosFinantec\Github\FilterValidate\FilterValidate\obj\Debug\netcoreapp3.1\FilterValidate.dll
+C:\ProjetosFinantec\Github\FilterValidate\FilterValidate\obj\Debug\netcoreapp3.1\FilterValidate.pdb
