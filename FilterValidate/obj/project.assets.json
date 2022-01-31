@@ -2778,25 +2778,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cbyk-dev\\.nuget\\packages\\": {},
+    "C:\\Users\\rodri\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetosFinantec\\Github\\FilterValidate\\FilterValidate\\FilterValidate.csproj",
+      "projectUniqueName": "D:\\ProjetosRodrigo\\FilterValidate\\FilterValidate\\FilterValidate.csproj",
       "projectName": "FilterValidate",
-      "projectPath": "C:\\ProjetosFinantec\\Github\\FilterValidate\\FilterValidate\\FilterValidate.csproj",
-      "packagesPath": "C:\\Users\\cbyk-dev\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetosFinantec\\Github\\FilterValidate\\FilterValidate\\obj\\",
+      "projectPath": "D:\\ProjetosRodrigo\\FilterValidate\\FilterValidate\\FilterValidate.csproj",
+      "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
+      "outputPath": "D:\\ProjetosRodrigo\\FilterValidate\\FilterValidate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\cbyk-dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rodri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -2876,7 +2878,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
